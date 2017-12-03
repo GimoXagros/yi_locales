@@ -5,7 +5,7 @@ localization mod for Yuoki Industries mods for Factorio. Feel free to contribute
 If you can help me translate in another language, please contact me. Discussion and E-mail
 -------------
 팩토리오 모드 한글화 프로젝트입니다. 검수 및 번역 작업에 이상이 있을 시 쓰레드나 이메일로 연락 바랍니다.
->[Discussion](https://mods.factorio.com/mods/Xagros/XMKTP/discussion) and rlgh0925@naver.com
+>[Discussion](https://mods.factorio.com/mods/Xagros/yi_locales/discussion) and rlgh0925@naver.com
 
 Thank you for downloaded this mod. (By.Xagros)
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
